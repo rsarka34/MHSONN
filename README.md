@@ -1,4 +1,4 @@
-# MHSONN
+![gradcams](https://github.com/user-attachments/assets/495113fc-6fbb-4f36-801f-0107b4520a0d)# MHSONN
 **A Novel Multi-Head Self-Organized Operational Neural Network Architecture for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds** 
 
 **RS-2-BP: A Unified Deep Learning Framework for Deriving EIT-Based Breathing Patterns from Respiratory Sounds**
@@ -16,7 +16,12 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 ![copd_msonn_updated](https://github.com/user-attachments/assets/7a567d5f-e40e-42f4-bf57-ae8709b1b479)
 
 # Results
-
+<p align="center">
+<img width="841" alt="Screenshot 2024-10-16 at 8 04 33 PM" src="https://github.com/user-attachments/assets/e425f9af-8b2b-47a1-a580-4d2b1cf3df35">
+</p>
+<p align="center">
+![gradcams](https://github.com/user-attachments/assets/9e84d9d3-8cc9-4228-b10a-71521ab47189)
+</p>
 # Performance
 <p align="center">
 <img width="822" alt="Screenshot 2024-10-16 at 7 59 07 PM" src="https://github.com/user-attachments/assets/366738f9-bf60-47b1-99da-d053f4e31610">
