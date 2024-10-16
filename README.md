@@ -18,7 +18,9 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 # Results
 
 # Performance
-
+<p align="center">
+<img width="822" alt="Screenshot 2024-10-16 at 7 59 07 PM" src="https://github.com/user-attachments/assets/366738f9-bf60-47b1-99da-d053f4e31610">
+</p>
 # Cite as
 A. Roy and U. Satija, "A Novel Multi-Head Self-Organized Operational Neural Network Architecture for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds," in *IEEE/ACM Transactions on Audio, Speech, and Language Processing*, vol. 32, pp. 2566-2575, 2024, doi: 10.1109/TASLP.2024.3393743.
 
