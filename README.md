@@ -20,9 +20,9 @@ Chronic obstructive pulmonary disease (COPD) is one of the most severe respirato
 <p align="center">
 <img width="841" alt="Screenshot 2024-10-16 at 8 04 33 PM" src="https://github.com/user-attachments/assets/e425f9af-8b2b-47a1-a580-4d2b1cf3df35">
 </p>
-<p align="center">
+
 ![gradcams](https://github.com/user-attachments/assets/495113fc-6fbb-4f36-801f-0107b4520a0d)
-</p>
+
 
 # Performance
 <p align="center">
