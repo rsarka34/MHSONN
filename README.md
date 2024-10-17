@@ -1,8 +1,6 @@
 # MHSONN
 **A Novel Multi-Head Self-Organized Operational Neural Network Architecture for Chronic Obstructive Pulmonary Disease Detection Using Lung Sounds** 
 
-**RS-2-BP: A Unified Deep Learning Framework for Deriving EIT-Based Breathing Patterns from Respiratory Sounds**
-
 **Authors: Arka Roy, Udit Satija**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rsarka34/MHSONN/blob/main/model/MHSONN.ipynb)
